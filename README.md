@@ -68,6 +68,15 @@ view the README.md file inside backend directory.
 
 ## Authors
 - [@KarthikS](https://www.github.com/Karthik-02)
+
+## Acknowledgements
+
+ - [https://youtu.be/qDqJZl32oN4](https://youtu.be/qDqJZl32oN4)
+ - [https://portal.thirdweb.com/contracts/deploy/overview](https://portal.thirdweb.com/contracts/deploy/overview)
+ - [Getting Started | Vite (vitejs.dev)](https://vitejs.dev/guide/)
+ - [Getting started with thirdweb React SDK](https://portal.thirdweb.com/react/v4/getting-started)
+
+
   
 ## Badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
