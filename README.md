@@ -56,6 +56,8 @@ Start the server
 ```bash
   npm run dev
 ```
+## Run locally (For Backend) 
+view the README.md file inside backend directory.
 
 ## Screenshots
 ![cf1](https://github.com/Karthik-02/crowdfundchain/assets/81423983/b1cf6255-7c9e-4929-b481-329ba2752629)
