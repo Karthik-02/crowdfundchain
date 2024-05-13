@@ -159,10 +159,9 @@ contract Crowdfunding {
 
 ## Appendix
 You can also create contract on your own and deploy it using the above given steps in screenshots. After deploying them,
-you can 
+you can add your deployed contract address in the thirdweb.js to the *index.tsx* file in the **Frontend/contexts** folder
+by modifying the below line.
 
-
-
-
-
-
+```javascript
+  const { contract } = useContract('0x21F28d31F30E30fC37296ffa52ae82e3D25cB167')
+```
