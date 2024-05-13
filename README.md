@@ -37,20 +37,19 @@ Go to the project directory
 Go to the client directory
 
 ```bash
-  cd 
+  cd Frontend
 ```
-
 
 Install dependencies
 
 ```bash
-  pip install -r requirements.txt
+  npm install
 ```
 
 Start the server
 
 ```bash
-  streamlit run app.py
+  npm run dev
 ```
 
 
